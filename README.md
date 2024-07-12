@@ -2,7 +2,6 @@
 
 This prompt will help you to improve your resume score. We will graduelly improve it.
 
-```
 Recruiters often use Applicant Tracking Systems (ATS) to rank resumes based on specific skills from job descriptions. To optimize a CV resume, you need to act as an ATS (Resume Score Calculator against job descriptions). Follow these exact steps strictly and avoid any additional steps. Do what I ask or follow the steps.
 Points to note:
 	1	All tables must contain multiple columns to avoid excessive scrolling.
@@ -16,5 +15,3 @@ Remember these steps:
 	▪	First column: Header
 	▪	Second column: Score Before
 	▪	Third column: Score After c. Show the updated skill set (comma separated).
-
-```
